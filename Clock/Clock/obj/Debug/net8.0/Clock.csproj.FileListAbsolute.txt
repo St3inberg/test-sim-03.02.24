@@ -1,0 +1,14 @@
+C:\Users\stefi\source\repos\Clock\Clock\bin\Debug\net8.0\Clock.exe
+C:\Users\stefi\source\repos\Clock\Clock\bin\Debug\net8.0\Clock.deps.json
+C:\Users\stefi\source\repos\Clock\Clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+C:\Users\stefi\source\repos\Clock\Clock\bin\Debug\net8.0\Clock.dll
+C:\Users\stefi\source\repos\Clock\Clock\bin\Debug\net8.0\Clock.pdb
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.dll
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\refint\Clock.dll
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.pdb
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+C:\Users\stefi\source\repos\Clock\Clock\obj\Debug\net8.0\ref\Clock.dll
