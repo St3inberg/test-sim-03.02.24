@@ -1,0 +1,14 @@
+C:\Users\stefi\source\repos\airport\airport\bin\Debug\net8.0\airport.exe
+C:\Users\stefi\source\repos\airport\airport\bin\Debug\net8.0\airport.deps.json
+C:\Users\stefi\source\repos\airport\airport\bin\Debug\net8.0\airport.runtimeconfig.json
+C:\Users\stefi\source\repos\airport\airport\bin\Debug\net8.0\airport.dll
+C:\Users\stefi\source\repos\airport\airport\bin\Debug\net8.0\airport.pdb
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.AssemblyInfoInputs.cache
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.AssemblyInfo.cs
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.csproj.CoreCompileInputs.cache
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.dll
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\refint\airport.dll
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.pdb
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\airport.genruntimeconfig.cache
+C:\Users\stefi\source\repos\airport\airport\obj\Debug\net8.0\ref\airport.dll
